@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background-color: aquamarine;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+    background-color: aqua;
+}
+
+p{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 17pt;
+}
+
+span{
+    color: red;
+}
+
+b{
+    color: blue;
+}

@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+p{
+    padding: 10px;
+    text-align: justify;
+    color: black;
+}
